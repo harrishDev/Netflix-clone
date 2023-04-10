@@ -1,3 +1,3 @@
 # Netflix-clone
-Netfix clone using Javascript
+Netfix clone using HTML & CSS
 
